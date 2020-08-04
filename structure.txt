@@ -1,0 +1,17 @@
+Categories
+
+eBooks
+Development tools
+
+Game title
+
+Json structure
+
+{
+  title
+  publisher
+  developer
+  website
+  releaseDate
+  description
+  
